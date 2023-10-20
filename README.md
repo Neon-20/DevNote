@@ -1,5 +1,5 @@
 
-# DevNote
+# DevNote🔥
 
 Welcome to DevNote, your one-stop solution for organizing your ideas in the form of notes. This Next.js project, powered by Prisma ORM and Convex.dev, allows you to manage your thoughts, projects, and more, all in one place.
 
